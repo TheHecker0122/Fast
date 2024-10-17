@@ -2,8 +2,11 @@ Fast
 
 Приложение "Fast" для НОУ описание..
 
-1 [Как установить]
+Зависимости: 
+python 3.x 
 
-2 [Как запустить]
+Пакеты pip: art, speech_recognition, open-interpretator
 
-3 [Использование]
+Запуск:
+python3 Fast.py
+
